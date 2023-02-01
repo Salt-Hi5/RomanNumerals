@@ -1,0 +1,36 @@
+g:/My Drive/Diverse Projekt (Produktivt)/Programmering (Filer OCH dokument)/SALT - Utbildning/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/bin/Debug/net6.0/RomanNumerals.deps.json
+g:/My Drive/Diverse Projekt (Produktivt)/Programmering (Filer OCH dokument)/SALT - Utbildning/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/bin/Debug/net6.0/RomanNumerals.dll
+g:/My Drive/Diverse Projekt (Produktivt)/Programmering (Filer OCH dokument)/SALT - Utbildning/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/bin/Debug/net6.0/RomanNumerals.pdb
+g:/My Drive/Diverse Projekt (Produktivt)/Programmering (Filer OCH dokument)/SALT - Utbildning/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.csproj.AssemblyReference.cache
+g:/My Drive/Diverse Projekt (Produktivt)/Programmering (Filer OCH dokument)/SALT - Utbildning/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+g:/My Drive/Diverse Projekt (Produktivt)/Programmering (Filer OCH dokument)/SALT - Utbildning/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.AssemblyInfoInputs.cache
+g:/My Drive/Diverse Projekt (Produktivt)/Programmering (Filer OCH dokument)/SALT - Utbildning/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.AssemblyInfo.cs
+g:/My Drive/Diverse Projekt (Produktivt)/Programmering (Filer OCH dokument)/SALT - Utbildning/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.csproj.CoreCompileInputs.cache
+g:/My Drive/Diverse Projekt (Produktivt)/Programmering (Filer OCH dokument)/SALT - Utbildning/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.dll
+g:/My Drive/Diverse Projekt (Produktivt)/Programmering (Filer OCH dokument)/SALT - Utbildning/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/refint/RomanNumerals.dll
+g:/My Drive/Diverse Projekt (Produktivt)/Programmering (Filer OCH dokument)/SALT - Utbildning/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.pdb
+g:/My Drive/Diverse Projekt (Produktivt)/Programmering (Filer OCH dokument)/SALT - Utbildning/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/ref/RomanNumerals.dll
+/Users/Anastasia/Library/CloudStorage/GoogleDrive-anastasia@nilsson.pro/.shortcut-targets-by-id/12-APh0tA0AdnCmX2tGJPljNrI_94FHV9/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/bin/Debug/net6.0/RomanNumerals.deps.json
+/Users/Anastasia/Library/CloudStorage/GoogleDrive-anastasia@nilsson.pro/.shortcut-targets-by-id/12-APh0tA0AdnCmX2tGJPljNrI_94FHV9/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/bin/Debug/net6.0/RomanNumerals.dll
+/Users/Anastasia/Library/CloudStorage/GoogleDrive-anastasia@nilsson.pro/.shortcut-targets-by-id/12-APh0tA0AdnCmX2tGJPljNrI_94FHV9/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/bin/Debug/net6.0/RomanNumerals.pdb
+/Users/Anastasia/Library/CloudStorage/GoogleDrive-anastasia@nilsson.pro/.shortcut-targets-by-id/12-APh0tA0AdnCmX2tGJPljNrI_94FHV9/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.csproj.AssemblyReference.cache
+/Users/Anastasia/Library/CloudStorage/GoogleDrive-anastasia@nilsson.pro/.shortcut-targets-by-id/12-APh0tA0AdnCmX2tGJPljNrI_94FHV9/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Anastasia/Library/CloudStorage/GoogleDrive-anastasia@nilsson.pro/.shortcut-targets-by-id/12-APh0tA0AdnCmX2tGJPljNrI_94FHV9/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.AssemblyInfoInputs.cache
+/Users/Anastasia/Library/CloudStorage/GoogleDrive-anastasia@nilsson.pro/.shortcut-targets-by-id/12-APh0tA0AdnCmX2tGJPljNrI_94FHV9/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.AssemblyInfo.cs
+/Users/Anastasia/Library/CloudStorage/GoogleDrive-anastasia@nilsson.pro/.shortcut-targets-by-id/12-APh0tA0AdnCmX2tGJPljNrI_94FHV9/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.csproj.CoreCompileInputs.cache
+/Users/Anastasia/Library/CloudStorage/GoogleDrive-anastasia@nilsson.pro/.shortcut-targets-by-id/12-APh0tA0AdnCmX2tGJPljNrI_94FHV9/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.dll
+/Users/Anastasia/Library/CloudStorage/GoogleDrive-anastasia@nilsson.pro/.shortcut-targets-by-id/12-APh0tA0AdnCmX2tGJPljNrI_94FHV9/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/refint/RomanNumerals.dll
+/Users/Anastasia/Library/CloudStorage/GoogleDrive-anastasia@nilsson.pro/.shortcut-targets-by-id/12-APh0tA0AdnCmX2tGJPljNrI_94FHV9/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/RomanNumerals.pdb
+/Users/Anastasia/Library/CloudStorage/GoogleDrive-anastasia@nilsson.pro/.shortcut-targets-by-id/12-APh0tA0AdnCmX2tGJPljNrI_94FHV9/SALT - Group Hi 5/Code/Katas/RomanNumerals.Kata/RomanNumerals/obj/Debug/net6.0/ref/RomanNumerals.dll
+C:\Users\Saltie\Documents\Katas\RomanNumerals.Kata-20230124T073804Z-001\RomanNumerals.Kata\RomanNumerals\bin\Debug\net6.0\RomanNumerals.deps.json
+C:\Users\Saltie\Documents\Katas\RomanNumerals.Kata-20230124T073804Z-001\RomanNumerals.Kata\RomanNumerals\bin\Debug\net6.0\RomanNumerals.dll
+C:\Users\Saltie\Documents\Katas\RomanNumerals.Kata-20230124T073804Z-001\RomanNumerals.Kata\RomanNumerals\bin\Debug\net6.0\RomanNumerals.pdb
+C:\Users\Saltie\Documents\Katas\RomanNumerals.Kata-20230124T073804Z-001\RomanNumerals.Kata\RomanNumerals\obj\Debug\net6.0\RomanNumerals.csproj.AssemblyReference.cache
+C:\Users\Saltie\Documents\Katas\RomanNumerals.Kata-20230124T073804Z-001\RomanNumerals.Kata\RomanNumerals\obj\Debug\net6.0\RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saltie\Documents\Katas\RomanNumerals.Kata-20230124T073804Z-001\RomanNumerals.Kata\RomanNumerals\obj\Debug\net6.0\RomanNumerals.AssemblyInfoInputs.cache
+C:\Users\Saltie\Documents\Katas\RomanNumerals.Kata-20230124T073804Z-001\RomanNumerals.Kata\RomanNumerals\obj\Debug\net6.0\RomanNumerals.AssemblyInfo.cs
+C:\Users\Saltie\Documents\Katas\RomanNumerals.Kata-20230124T073804Z-001\RomanNumerals.Kata\RomanNumerals\obj\Debug\net6.0\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\Saltie\Documents\Katas\RomanNumerals.Kata-20230124T073804Z-001\RomanNumerals.Kata\RomanNumerals\obj\Debug\net6.0\RomanNumerals.dll
+C:\Users\Saltie\Documents\Katas\RomanNumerals.Kata-20230124T073804Z-001\RomanNumerals.Kata\RomanNumerals\obj\Debug\net6.0\refint\RomanNumerals.dll
+C:\Users\Saltie\Documents\Katas\RomanNumerals.Kata-20230124T073804Z-001\RomanNumerals.Kata\RomanNumerals\obj\Debug\net6.0\RomanNumerals.pdb
+C:\Users\Saltie\Documents\Katas\RomanNumerals.Kata-20230124T073804Z-001\RomanNumerals.Kata\RomanNumerals\obj\Debug\net6.0\ref\RomanNumerals.dll
